@@ -62,8 +62,20 @@ This project creates a **web-based weather dashboard** using **ESP32**, a **DHT1
 ---
 
 ## 💻 Code
-- MicroPython: `girly_weather_dashboard.py`  
+- MicroPython: `weather.py`  
 - Insert your **OpenWeatherMap API_KEY** in the code:
-
-```python
 API_KEY = "YOUR_OPENWEATHERMAP_KEY"
+
+---
+
+## 👩‍💻 Author
+
+**Ala Toumi**
+3rd-year Computer Engineering Student
+Embedded Systems & IoT enthusiast
+
+---
+
+## 📎 License
+
+MIT License – Free to use and modify.
